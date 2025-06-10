@@ -71,9 +71,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 This project is open-source under the **MIT License**.
 
-## Contact
-For inquiries, please reach out us via GitHub issues or email long.nguyen.210085@student.fulbright.edu.vn.
-
 ---
 
 *By integrating social perception into robotic systems, this work bridges the gap between physical safety and social intelligence, paving the way for more adaptive, human-aware robots.*
