@@ -52,7 +52,7 @@ Ensure you have the following installed:
 ## Usage
 1. **Monitor the human skeleton detection topic:**
    ```bash
-   cd ~/social-interaction/detector
+   cd ~/social-interaction-detector
    ./run.sh
    ```
 2. **Monitor the human pose detection topic:**
